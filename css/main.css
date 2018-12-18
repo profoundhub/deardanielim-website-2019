@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+a, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+body {
+    height: 100vh;
+    background: rgb(255,255,0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Bangers', serif;
+}
+
+.container {
+    min-height: 400px;
+    min-width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+   
+.item {
+    background: black;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transform: rotate(-45deg);
+    border: 3px solid black;
+    box-shadow: -3px 4px 8px rgba(0,0,0,.5);
+    transition: all .3s;
+}
+
+.item:hover {
+    transform: scale(1.5);
+    position: relative;
+    z-index: 10;
+}
+
+.item:hover::before {
+    opacity: 1;
+}
+
+.item:hover .hi {
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.item::before {
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background: rgba(0,0,0,.6);
+    opacity: 0;
+    transition: all .4s;    
+}
+
+.hi {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#f7ff00,#ffffff);
+    top: 50%;
+    left: 50%;
+    transform: translate(-60%, -250px) rotate(45deg);
+    border-radius: 10px;
+    transition: all .5s;
+}
+
+.hi span {
+    transform: rotate(-45deg);
+    font-size: 22px;
+}
+
+.deardanielim {
+    font-size: 150px;
+    margin: 80px;
+}
+
+#daniel {
+    position: absolute;
+    font-size: 18px;
+    bottom: 5px;
+    left: 10px;
+}
+
+#daniel:hover > a {
+    color: royalblue;
+    transform: scale(1.5);
+}
+
+a {
+    display: inline-block;
+    transition: all .3s;
+    transform-origin: left;
+}
+
+@media only screen and (max-width: 1100px) {   
+    .container {
+        transform: scale(.7);
+    }    
+    .company {
+        margin: 0;
+        font-size: 50px;
+    }
+}

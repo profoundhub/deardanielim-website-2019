@@ -13,10 +13,15 @@
     <meta property="og:url" content="https://join.deardanielim.info/">
     <meta property="og:type" content="website">    
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
     <script src="main.js"></script>
 </head>
 <body>
-    
+    <div class="deardanielim">Join</div>
+    <div class="container">
+
+
+    </div>
+    <div class="deardanielim">@deardanielim</div>
 </body>
 </html>
