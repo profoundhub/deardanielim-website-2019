@@ -126,7 +126,7 @@
         </div><div class="item">
             <div class="photo">
                 <span>
-
+                    Home
                 </span>
             </div>
         </div><div class="item">
@@ -145,8 +145,6 @@
     </div>
     <div class="deardanielim">@deardanielim</div>
 
-<div id="daniel">Made with love <a href="." rel="me">@deardanielim</a></div>
-
-
+    <div id="daniel">Made with love <a href="." rel="me">@deardanielim</a></div>
 </body>
 </html>
