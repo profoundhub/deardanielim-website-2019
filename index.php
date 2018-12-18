@@ -19,7 +19,96 @@
 <body>
     <div class="deardanielim">JOIN</div>
     <div class="container">
-        <div class="item"><div class="photo"><span>TWITCH</span></div></div>    
+    <!-- -->
+        <div class="item">
+            <div class="photo">
+                <span>TWITCH</span>
+            </div>
+        </div>    
+        <div class="item">
+            <div class="photo">
+                <span>YOUTUBE</span>
+            </div>
+        </div>    
+        <div class="item">
+            <div class="photo">
+                <span>MIXER</span>
+            </div>
+        </div>    
+    <!-- -->
+        <div class="item">
+            <div class="photo">
+                <span>
+                    FACEBOOK
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    INSTAGRAM
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    LINKEDIN
+                </span>
+            </div>
+        </div>
+    <!-- -->
+        <div class="item">
+            <div class="photo">
+                <span>
+                    ANCHOR
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    TIKTOK
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    MEMBERCLOUDS
+                </span>
+            </div>
+        </div>
+    <!-- -->
+        <div class="item">
+            <div class="photo">
+                <span>
+                    UDEMY   
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    TEACHABLE   
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    SKILLSHARE  
+                </span>
+            </div>
+        </div>
+    <!-- -->    
+        <div class="item">
+            <div class="photo">
+                <span>
+                    SHOP
+                </span>
+            </div>
+        </div>
         <div class="item">
             <div class="photo">
                 <span>
@@ -29,113 +118,77 @@
         </div><div class="item">
             <div class="photo">
                 <span>
-                    INSTAGRAM
+                    SHOPIFY
                 </span>
             </div>
-        </div><div class="item">
+        </div>
+    <!-- -->
+        <div class="item">
             <div class="photo">
                 <span>
-                    FACEBOOK
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    UDEMY
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    TEACHABLE
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    ANCHOR
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    CLICKFUNNELS
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    MEMBERCLOUDS
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    LINKEDIN
+                    FIVERR                    
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    SHOPIFY
+                    CLICKFUNNELS
                 </span>
             </div>
-        </div><div class="item">
+        </div>
+        <div class="item">
             <div class="photo">
                 <span>
-                    SKILLSHARE
+                    BITSHARES
                 </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    MIXER
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    YOUTUBE
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    SHOP
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    TWITTER
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    FIVERR
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    Home
-                </span>
-            </div>
-        </div><div class="item">
-            <div class="photo">
-                <span>
-                    TIKTOK
-                </span>
-            </div>
-        </div><div class="item">
+            </div>            
+        </div>
+    <!-- -->
+        <div class="item">
             <div class="photo">
                 <span>
                     KU
                 </span>
             </div>
         </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    EOS
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    BITCOIN
+                </span>
+            </div>
+        </div>
+    <!-- -->
+        <div class="item">
+            <div class="photo">
+                <span>
+                    TWITTER
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    PINTEREST
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    HOME
+                </span>
+            </div>
+        </div>
+    <!-- -->
     </div>
     <div class="deardanielim">@deardanielim</div>
 
