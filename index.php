@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,20 +12,14 @@
     <meta property="og:description" content="Would you like to join the @dearDanielim Family &amp; Community?">
     <meta property="og:url" content="https://join.deardanielim.info/">
     <meta property="og:type" content="website">    
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
     <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
     <script src="main.js"></script>
 </head>
 <body>
-    <div class="deardanielim">Join</div>
+    <div class="deardanielim">JOIN</div>
     <div class="container">
-        <div class="item">
-            <div class="photo">
-                <span>
-                    TWITCH
-                </span>
-            </div>
-        </div>    
+        <div class="item"><div class="photo"><span>TWITCH</span></div></div>    
         <div class="item">
             <div class="photo">
                 <span>
