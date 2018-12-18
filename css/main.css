@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Bangers");
+
 a, a:visited {
   text-decoration: none;
   color: black;
@@ -15,12 +16,12 @@ body {
 
 .container {
     min-height: 400px;
-    min-width: 400px;
+    min-width: 800px;
     padding: 10px;
     border-radius: 5px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
+    /* grid-template-rows: 1fr 1fr 1fr; */ 
     grid-gap: 10px;
 }
    
@@ -65,7 +66,7 @@ body {
     background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitch-deardanielim.jpg");
     background-size: cover;    
     background-position: center;
-    grid-row: 1 / 3;
+    grid-row: 1 / 6;
 }
 
 /* YouTube*/
@@ -73,7 +74,7 @@ body {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/youtube-ddl.jpg");
     background-size: cover;
     background-position: center;
-    grid-row: 1 / 3;
+    grid-row: 1 / 6;
 }
 
 /* MIXER */
@@ -81,7 +82,7 @@ body {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/mixer-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    grid-row: 1 / 3;
+    grid-row: 1 / 6;
 }
 
 /* FaceBook */
@@ -89,8 +90,7 @@ body {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/FaceBook-deardanielim.png");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
+    grid-row: 1 / 6;
 }
 
 /* INSTAGRAM */
@@ -98,169 +98,60 @@ body {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/instagram-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
+    grid-row: 1 / 6;
 }
 
 /* LINKEDIN */
 .item:nth-child(6) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/teachable-deardanielim.jpg");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/LinkedIn-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;  
+    grid-row: 1 / 6;  
+}
+
+/* Anchor */
+.item:nth-child(7) {
+    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Anchor-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
+    grid-row: 1 / 6;
 }
 
 /* TIKTOK */
-.item:nth-child(7) {
+.item:nth-child(8) {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/tiktok-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
 }
 
 /* MEMBERCLOUDS */
-.item:nth-child(8) {
+.item:nth-child(9) {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/memberclouds-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
 }
 
 /* UDEMY */
-.item:nth-child(9) {
+.item:nth-child(10) {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/udemy-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
 }
 
 /* TEACHABLE */
-.item:nth-child(10) {
+.item:nth-child(11) {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/teachable-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
 }
 
 /* SKILLSHARE */
-.item:nth-child(11) {
+.item:nth-child(12) {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/skillshare-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
 }
 
-/* SHOP */
-.item:nth-child(12) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-
-/* AMAZON */
-.item:nth-child(13) {
-    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Amazon-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-
-/* SHOPIFY */
-.item:nth-child(14) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-
-/* FIVERR */
-.item:nth-child(15) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-
-/* CLICKFUNNELS */
-.item:nth-child(16) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-
-/* GitHub */
-.item:nth-child(17) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-
-/* Ku */
-.item:nth-child(18) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-
-/* EOS */
-.item:nth-child(19) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-
-/* Bitcoin */
-.item:nth-child(20) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-
-/* TWITTER */
-.item:nth-child(21) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-/* PINTEREST */
-.item:nth-child(22) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
-/* BITSHARES */
-.item:nth-child(23) {
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    z-index:6;
-}
 
 .photo {
     position: absolute;
