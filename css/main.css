@@ -61,14 +61,14 @@ body {
 }
 
 .item:nth-child() {
-    background: url("");
+    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Amazon-deardanielim.jpg");
     background-size: cover;
     background: center;
     grid-row: 1 / 3;
 }
 
 .item:nth-child() {
-    background: url("");
+    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Amazon-deardanielim.jpg");
     background-size: cover;
     background: center;
     grid-row: 1 / 3;
