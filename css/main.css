@@ -5,6 +5,15 @@ a, a:visited {
   color: black;
 }
 
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+      background-color: #030302;
+  }
+  
 body {
     height: 100vh;
     background: rgb(255,255,0);
@@ -15,16 +24,13 @@ body {
 }
 
 .container {
-    min-height: 400px;
-    min-width: 800px;
-    padding: 10px;
-    border-radius: 5px;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    /* grid-template-rows: 1fr 1fr 1fr; */ 
-    grid-gap: 10px;
+	grid-template-columns: repeat(9, 250px);
+	grid-template-rows: repeat(7, 250px);
+	grid-gap: 1.5rem;
 }
-   
+
+/*
 .item {
     background: black;
     border-radius: 5px;
@@ -60,99 +66,18 @@ body {
     opacity: 0;
     transition: all .4s;    
 }
-
-/* TWITCH */
-.item:nth-child(1) {
-    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitch-deardanielim.jpg");
-    background-size: cover;    
+*/ 
+.item { background-color: #FECE00; 
+	background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitch-deardanielim.jpg");
+	background-size: cover;
     background-position: center;
-    grid-row: 1 / 6;
+	width: 100px;
+	height: 100px;
+	padding: 50px;
+	margin: 50px;
 }
-
-/* YouTube*/
-.item:nth-child(2) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/youtube-ddl.jpg");
-    background-size: cover;
-    background-position: center;
-    grid-row: 1 / 6;
-}
-
-/* MIXER */
-.item:nth-child(3) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/mixer-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;
-    grid-row: 1 / 6;
-}
-
-/* FaceBook */
-.item:nth-child(4) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/FaceBook-deardanielim.png");
-    background-size: cover;
-    background-position: center;
-    grid-row: 1 / 6;
-}
-
-/* INSTAGRAM */
-.item:nth-child(5) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/instagram-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;
-    grid-row: 1 / 6;
-}
-
-/* LINKEDIN */
-.item:nth-child(6) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/LinkedIn-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;  
-    grid-row: 1 / 6;  
-}
-
-/* Anchor */
-.item:nth-child(7) {
-    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Anchor-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;
-    grid-row: 1 / 6;
-}
-
-/* TIKTOK */
-.item:nth-child(8) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/tiktok-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-/* MEMBERCLOUDS */
-.item:nth-child(9) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/memberclouds-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-/* UDEMY */
-.item:nth-child(10) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/udemy-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-/* TEACHABLE */
-.item:nth-child(11) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/teachable-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-/* SKILLSHARE */
-.item:nth-child(12) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/skillshare-deardanielim.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-
+    
+/*
 .photo {
     position: absolute;
     height: 75px;
@@ -172,7 +97,7 @@ body {
     transform: rotate(-45deg);
     font-size: 22px;
 }
-
+*/
 .deardanielim {
     font-size: 150px;
     margin: 80px;
