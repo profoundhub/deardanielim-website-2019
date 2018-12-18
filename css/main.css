@@ -60,6 +60,20 @@ body {
     transition: all .4s;    
 }
 
+.item:nth-child() {
+    background: url("");
+    background-size: cover;
+    background: center;
+    grid-row: 1 / 3;
+}
+
+.item:nth-child() {
+    background: url("");
+    background-size: cover;
+    background: center;
+    grid-row: 1 / 3;
+}
+
 .photo {
     position: absolute;
     height: 50px;
@@ -107,7 +121,7 @@ a {
     .container {
         transform: scale(.7);
     }    
-    .company {
+    .deardanielim {
         margin: 0;
         font-size: 50px;
     }
