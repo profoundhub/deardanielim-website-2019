@@ -107,7 +107,7 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    SHOP
+                    FOLLOW
                 </span>
             </div>
         </div>
