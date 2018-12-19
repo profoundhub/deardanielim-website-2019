@@ -288,6 +288,10 @@ body {
     opacity:0.4;
     filter:alpha(opacity=40); 
     z-index: 999;
+    position: absolute;
+    top: 210px;
+    text-align: center;
+    width: 100%;
 }
 
 .join:hover {
