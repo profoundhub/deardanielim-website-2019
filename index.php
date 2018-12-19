@@ -14,9 +14,7 @@
     <meta property="og:type" content="website">    
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">    
 </head>
 <body>
     <div class="join">JOIN</div>
@@ -24,60 +22,44 @@
     <!-- -->
         <div class="item">
             <div class="photo">
-                <span>TWITCH</span>
+                <span>
+                    TWITCH</a>
+                </span>
             </div>
         </div>    
         <div class="item">
             <div class="photo">
-                <span>YOUTUBE</span>
+                <span>
+                    YOUTUBE</a>
+                </span>
             </div>
         </div>    
         <div class="item">
             <div class="photo">
-                <span>MIXER</span>
+                <span>
+                    MIXER</a>
+                </span>
             </div>
         </div>    
     <!-- -->
         <div class="item">
             <div class="photo">
                 <span>
-                    FACEBOOK
+                    FACEBOOK</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    INSTAGRAM
+                    INSTAGRAM</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    LINKEDIN
-                </span>
-            </div>
-        </div>
-    <!-- -->
-        <div class="item">
-            <div class="photo">
-                <span>
-                    ANCHOR
-                </span>
-            </div>
-        </div>
-        <div class="item">
-            <div class="photo">
-                <span>
-                    TIKTOK
-                </span>
-            </div>
-        </div>
-        <div class="item">
-            <div class="photo">
-                <span>
-                    MEMBERCLOUDS
+                    LINKEDIN</a>
                 </span>
             </div>
         </div>
@@ -85,21 +67,43 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    UDEMY   
+                    ANCHOR</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    TEACHABLE   
+                    TIKTOK</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    SKILLSHARE  
+                    MEMBERCLOUDS</a>
+                </span>
+            </div>
+        </div>
+    <!-- -->
+        <div class="item">
+            <div class="photo">
+                <span>
+                    UDEMY</a>
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    TEACHABLE</a>
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    SKILLSHARE</a>
                 </span>
             </div>
         </div>
@@ -107,20 +111,20 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    FOLLOW
+                    FOLLOW</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    AMAZON
+                    AMAZON</a>
                 </span>
             </div>
         </div><div class="item">
             <div class="photo">
                 <span>
-                    SHOPIFY
+                    SHOPIFY</a>
                 </span>
             </div>
         </div>
@@ -128,21 +132,21 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    FIVERR                    
+                    FIVERR</a>                
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    CLICKFUNNELS
+                    CLICKFUNNELS</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    BITSHARES
+                    BITSHARES</a>
                 </span>
             </div>            
         </div>
@@ -150,21 +154,21 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    KU
+                    KU</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    EOS
+                    EOS</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    BITCOIN
+                    BITCOIN</a>
                 </span>
             </div>
         </div>
@@ -172,37 +176,36 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    TWITTER
+                    <a href="." target="_blank">TWITTER</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    PINTEREST
+                    <a href="." target="_blank">PINTEREST</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    WHATSAPP
+                    <a href="." target="_blank">WHATSAPP</a>
                 </span>
             </div>
         </div>
-    <!-- -->
-    
+    <!-- -->    
         <div class="item">
             <div class="photo">
                 <span>
-                    WORDPRESS
+                    <a href="http://deardanielim.info" target="_blank">WORDPRESS</a>
                 </span>
             </div>
         </div>
-
+    <!-- -->    
     </div>
+    
     <div class="deardanielim">@deardanielim</div>
-
     <div id="daniel">Made with love <a href="." rel="me">@deardanielim</a></div>
     
     <script src="js/main.js"></script>
