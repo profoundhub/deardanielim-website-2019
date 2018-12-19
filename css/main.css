@@ -275,28 +275,42 @@ body {
 
 .join {
     font-size: 150px;    
-    -webkit-transform: rotate(-90deg);
+    /* -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     -o-transform: rotate(-90deg);
     filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
     left: 0;
-    position: fixed;
+    position: fixed; */
+    opacity:0.4;
+    filter:alpha(opacity=40); 
+    z-index: 999;
+}
+
+.join:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
 }
 
 .deardanielim {
-    font-size: 80px;
-    -webkit-transform: rotate(-270deg);
+    font-size: 150px;
+    margin: 80px;
+    /* -webkit-transform: rotate(-270deg);
     -moz-transform: rotate(-270deg);
     -ms-transform: rotate(-270deg);
     -o-transform: rotate(-270deg);
-    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
-    right: 0;
-    position: fixed;
-
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); */
+    /* right: 0;
+    position: fixed; */
+    opacity:0.4;
+    filter:alpha(opacity=40); 
+    z-index: 999;
 }
 
-
+.deardanielim:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+} 
 
 #daniel {
     position: absolute;
