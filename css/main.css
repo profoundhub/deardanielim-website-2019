@@ -76,7 +76,92 @@ body {
 	padding: 50px;
 	margin: 50px;
 }
-    
+
+/* TWITCH */
+.item:nth-child(1) {
+    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitch-deardanielim.jpg");
+    background-size: cover;    
+    background-position: center;
+}
+
+/* YouTube*/
+.item:nth-child(2) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/youtube-ddl.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* MIXER */
+.item:nth-child(3) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/mixer-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* FaceBook */
+.item:nth-child(4) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/FaceBook-deardanielim.png");
+    background-size: cover;
+    background-position: center;
+}
+
+/* INSTAGRAM */
+.item:nth-child(5) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/instagram-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* LINKEDIN */
+.item:nth-child(6) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/LinkedIn-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;  
+}
+
+/* Anchor */
+.item:nth-child(7) {
+    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Anchor-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* TIKTOK */
+.item:nth-child(8) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/tiktok-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* MEMBERCLOUDS */
+.item:nth-child(9) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/memberclouds-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* UDEMY */
+.item:nth-child(10) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/udemy-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* TEACHABLE */
+.item:nth-child(11) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/teachable-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* SKILLSHARE */
+.item:nth-child(12) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/skillshare-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
 .photo {
     position: absolute;
     height: 75px;
@@ -97,8 +182,6 @@ body {
     font-size: 22px;
 }
 
-/*
-*/
 .deardanielim {
     font-size: 150px;
     margin: 80px;
