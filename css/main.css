@@ -239,22 +239,18 @@ body {
     background-position: center;
 }
 
-/* GitHub */
+/* WHATSAPP */
 .item:nth-child(24) {
-    background-image: url("");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/WhatsApp-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
 }
 
-/* GitHub */
-.item:nth-child(24) {
-    background-image: url("");
+/* BLOG */
+.item:nth-child(25) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Blog-deardanielim.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
-    z-index:6;
 }
 
 .photo {
