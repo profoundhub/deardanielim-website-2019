@@ -246,9 +246,9 @@ body {
     background-position: center;
 }
 
-/* BLOG */
+/* WORDPRESS */
 .item:nth-child(25) {
-    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Blog-deardanielim.jpg");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/wordpress-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
