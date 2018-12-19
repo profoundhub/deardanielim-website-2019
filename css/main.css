@@ -290,6 +290,9 @@ body {
 .join:hover {
     opacity: 1.0;
     filter: alpha(opacity=100); 
+    text-shadow: rgb(255, 255, 255) 0px 0px 10px, rgb(255, 255, 255) 0px 0px 20px, rgb(255, 255, 255) 0px 0px 30px, rgb(0, 255, 255) 0px 0px 40px, rgb(0, 255, 255) 0px 0px 70px, rgb(0, 255, 255) 0px 0px 80px, rgb(0, 255, 255) 0px 0px 100px;
+    transform: none;
+    transform-origin: 50% 50% 0px;
 }
 
 .deardanielim {
@@ -310,6 +313,9 @@ body {
 .deardanielim:hover {
     opacity: 1.0;
     filter: alpha(opacity=100); 
+    text-shadow: rgb(255, 255, 255) 0px 0px 10px, rgb(255, 255, 255) 0px 0px 20px, rgb(255, 255, 255) 0px 0px 30px, rgb(0, 255, 255) 0px 0px 40px, rgb(0, 255, 255) 0px 0px 70px, rgb(0, 255, 255) 0px 0px 80px, rgb(0, 255, 255) 0px 0px 100px;
+    transform: none;
+    transform-origin: 50% 50% 0px;
 } 
 
 #daniel {
