@@ -12,9 +12,11 @@
     <meta property="og:description" content="Would you like to join the @dearDanielim Family &amp; Community?">
     <meta property="og:url" content="https://join.deardanielim.info/">
     <meta property="og:type" content="website">    
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-    <script src="main.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+    
 </head>
 <body>
     <div class="deardanielim">JOIN</div>
@@ -184,7 +186,7 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    HOME
+                    GITHUB
                 </span>
             </div>
         </div>
@@ -193,5 +195,7 @@
     <div class="deardanielim">@deardanielim</div>
 
     <div id="daniel">Made with love <a href="." rel="me">@deardanielim</a></div>
+    
+    <script src="js/main.js"></script>
 </body>
 </html>
