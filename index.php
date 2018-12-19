@@ -107,7 +107,7 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    SHOP
+                    FOLLOW
                 </span>
             </div>
         </div>
@@ -186,11 +186,20 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    GITHUB
+                    WHATSAPP
                 </span>
             </div>
         </div>
     <!-- -->
+    
+        <div class="item">
+            <div class="photo">
+                <span>
+                    WORDPRESS
+                </span>
+            </div>
+        </div>
+
     </div>
     <div class="deardanielim">@deardanielim</div>
 

@@ -65,11 +65,10 @@ body {
     /* background: rgba(0,0,0,.6); */
     opacity: 0;
     transition: all .4s;    
-}
-/*
-*/ 
+} 
+
 .item { background-color: #FECE00; 
-	background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitch-deardanielim.jpg");
+	background: url("https://github.com/profoundhub/deardanielim-website-2019/blob/master/images/Profound-deardanielim.jpg");
 	background-size: cover;
     background-position: center;
 	width: 100px;
@@ -77,7 +76,183 @@ body {
 	padding: 50px;
 	margin: 50px;
 }
-    
+
+/* TWITCH */
+.item:nth-child(1) {
+    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitch-deardanielim.jpg");
+    background-size: cover;    
+    background-position: center;
+}
+
+/* YouTube*/
+.item:nth-child(2) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/youtube-ddl.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* MIXER */
+.item:nth-child(3) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/mixer-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* FaceBook */
+.item:nth-child(4) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/FaceBook-deardanielim.png");
+    background-size: cover;
+    background-position: center;
+}
+
+/* INSTAGRAM */
+.item:nth-child(5) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/instagram-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* LINKEDIN */
+.item:nth-child(6) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/LinkedIn-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;  
+}
+
+/* Anchor */
+.item:nth-child(7) {
+    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Anchor-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* TIKTOK */
+.item:nth-child(8) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/tiktok-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* MEMBERCLOUDS */
+.item:nth-child(9) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/memberclouds-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* UDEMY */
+.item:nth-child(10) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/udemy-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* TEACHABLE */
+.item:nth-child(11) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/teachable-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* SKILLSHARE */
+.item:nth-child(12) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/skillshare-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* SHOP */
+.item:nth-child(13) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/follow-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* AMAZON */
+.item:nth-child(14) {
+    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Amazon-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* SHOPIFY */
+.item:nth-child(15) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Shopify-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* FIVERR */
+.item:nth-child(16) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/fiverr-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* CLICKFUNNELS */
+.item:nth-child(17) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/ClickFunnels-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Bitshares */
+.item:nth-child(18) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/bitshares-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Ku */
+.item:nth-child(19) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/ku-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* EOS */
+.item:nth-child(20) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/eos-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Bitcoin */
+.item:nth-child(21) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Bitcoin-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* TWITTER */
+.item:nth-child(22) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitter-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* PINTEREST */
+.item:nth-child(23) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitter-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* WHATSAPP */
+.item:nth-child(24) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/WhatsApp-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* WORDPRESS */
+.item:nth-child(25) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/wordpress-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
 .photo {
     position: absolute;
     height: 75px;
@@ -98,8 +273,6 @@ body {
     font-size: 22px;
 }
 
-/*
-*/
 .deardanielim {
     font-size: 150px;
     margin: 80px;
