@@ -65,9 +65,8 @@ body {
     /* background: rgba(0,0,0,.6); */
     opacity: 0;
     transition: all .4s;    
-}
-/*
-*/ 
+} 
+
 .item { background-color: #FECE00; 
 	background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitch-deardanielim.jpg");
 	background-size: cover;
