@@ -185,14 +185,14 @@ body {
 
 /* FIVERR */
 .item:nth-child(16) {
-    background-image: url("");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/fiverr-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
 
 /* CLICKFUNNELS */
 .item:nth-child(17) {
-    background-image: url("");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/ClickFunnels-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -206,14 +206,14 @@ body {
 
 /* Ku */
 .item:nth-child(19) {
-    background-image: url("");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/ku-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
 
 /* EOS */
 .item:nth-child(20) {
-    background-image: url("");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/eos-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
