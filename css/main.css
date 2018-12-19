@@ -68,7 +68,7 @@ body {
 } 
 
 .item { background-color: #FECE00; 
-	background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitch-deardanielim.jpg");
+	background: url("https://github.com/profoundhub/deardanielim-website-2019/blob/master/images/Profound-deardanielim.jpg");
 	background-size: cover;
     background-position: center;
 	width: 100px;
@@ -160,6 +160,90 @@ body {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/skillshare-deardanielim.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/* SHOP */
+.item:nth-child(13) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/follow-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* AMAZON */
+.item:nth-child(14) {
+    background: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Amazon-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* SHOPIFY */
+.item:nth-child(15) {
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Shopify-deardanielim.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* FIVERR */
+.item:nth-child(16) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
+
+/* CLICKFUNNELS */
+.item:nth-child(17) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
+
+/* GitHub */
+.item:nth-child(18) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Ku */
+.item:nth-child(19) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
+
+/* EOS */
+.item:nth-child(20) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Bitcoin */
+.item:nth-child(21) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
+
+/* TWITTER */
+.item:nth-child(22) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
+/* PINTEREST */
+.item:nth-child(23) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
+/* BITSHARES */
+.item:nth-child(24) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index:6;
 }
 
 .photo {
