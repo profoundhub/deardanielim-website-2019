@@ -28,6 +28,9 @@ body {
     /* grid-gap: 1.5rem; */
     top: 10px;
     position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%)
 }
 
 /* */
