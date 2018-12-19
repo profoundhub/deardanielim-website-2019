@@ -23,21 +23,21 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    TWITCH</a>
+                    <a href="." target="_blank">TWITCH</a>
                 </span>
             </div>
         </div>    
         <div class="item">
             <div class="photo">
                 <span>
-                    YOUTUBE</a>
+                    <a href="." target="_blank">YOUTUBE</a>
                 </span>
             </div>
         </div>    
         <div class="item">
             <div class="photo">
                 <span>
-                    MIXER</a>
+                    <a href="." target="_blank">MIXER</a>
                 </span>
             </div>
         </div>    
@@ -45,43 +45,21 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    FACEBOOK</a>
+                    <a href="." target="_blank">FACEBOOK</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    INSTAGRAM</a>
+                    <a href="." target="_blank">INSTAGRAM</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    LINKEDIN</a>
-                </span>
-            </div>
-        </div>
-    <!-- -->
-        <div class="item">
-            <div class="photo">
-                <span>
-                    ANCHOR</a>
-                </span>
-            </div>
-        </div>
-        <div class="item">
-            <div class="photo">
-                <span>
-                    TIKTOK</a>
-                </span>
-            </div>
-        </div>
-        <div class="item">
-            <div class="photo">
-                <span>
-                    MEMBERCLOUDS</a>
+                    <a href="." target="_blank">LINKEDIN</a>
                 </span>
             </div>
         </div>
@@ -89,21 +67,43 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    UDEMY</a>
+                    <a href="." target="_blank">ANCHOR</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    TEACHABLE</a>
+                    <a href="." target="_blank">TIKTOK</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    SKILLSHARE</a>
+                    <a href="." target="_blank">MEMBERCLOUDS</a>
+                </span>
+            </div>
+        </div>
+    <!-- -->
+        <div class="item">
+            <div class="photo">
+                <span>
+                    <a href="." target="_blank">UDEMY</a>
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    <a href="." target="_blank">TEACHABLE</a>
+                </span>
+            </div>
+        </div>
+        <div class="item">
+            <div class="photo">
+                <span>
+                    <a href="." target="_blank">SKILLSHARE</a>
                 </span>
             </div>
         </div>
@@ -111,20 +111,20 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    FOLLOW</a>
+                    <a href="." target="_blank">FOLLOW</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    AMAZON</a>
+                    <a href="." target="_blank">AMAZON</a>
                 </span>
             </div>
         </div><div class="item">
             <div class="photo">
                 <span>
-                    SHOPIFY</a>
+                    <a href="." target="_blank">SHOPIFY</a>
                 </span>
             </div>
         </div>
@@ -132,21 +132,21 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    FIVERR</a>                
+                    <a href="." target="_blank">FIVERR</a>                
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    CLICKFUNNELS</a>
+                    <a href="." target="_blank">CLICKFUNNELS</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    BITSHARES</a>
+                <a href="." target="_blank">BITSHARES</a>
                 </span>
             </div>            
         </div>
@@ -154,21 +154,21 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    KU</a>
+                    <a href="." target="_blank">KU</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    EOS</a>
+                    <a href="." target="_blank">EOS</a>
                 </span>
             </div>
         </div>
         <div class="item">
             <div class="photo">
                 <span>
-                    BITCOIN</a>
+                    <a href="." target="_blank">BITCOIN</a>
                 </span>
             </div>
         </div>
