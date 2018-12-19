@@ -186,7 +186,7 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    GITHUB
+                    WHATSAPP
                 </span>
             </div>
         </div>
