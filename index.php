@@ -195,7 +195,7 @@
         <div class="item">
             <div class="photo">
                 <span>
-                    BLOG
+                    WORDPRESS
                 </span>
             </div>
         </div>
