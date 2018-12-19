@@ -197,9 +197,9 @@ body {
     background-position: center;
 }
 
-/* GitHub */
+/* Bitshares */
 .item:nth-child(18) {
-    background-image: url("");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/bitshares-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -220,24 +220,24 @@ body {
 
 /* Bitcoin */
 .item:nth-child(21) {
-    background-image: url("");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/Bitcoin-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
 
 /* TWITTER */
 .item:nth-child(22) {
-    background-image: url("");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitter-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
 /* PINTEREST */
 .item:nth-child(23) {
-    background-image: url("");
+    background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitter-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
-/* BITSHARES */
+/*  */
 .item:nth-child(24) {
     background-image: url("");
     background-size: cover;
