@@ -191,6 +191,15 @@
             </div>
         </div>
     <!-- -->
+    
+        <div class="item">
+            <div class="photo">
+                <span>
+                    BLOG
+                </span>
+            </div>
+        </div>
+
     </div>
     <div class="deardanielim">@deardanielim</div>
 

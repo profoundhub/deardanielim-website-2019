@@ -231,13 +231,24 @@ body {
     background-size: cover;
     background-position: center;
 }
+
 /* PINTEREST */
 .item:nth-child(23) {
     background-image: url("https://raw.githubusercontent.com/profoundhub/deardanielim-website-2019/master/images/twitter-deardanielim.jpg");
     background-size: cover;
     background-position: center;
 }
-/*  */
+
+/* GitHub */
+.item:nth-child(24) {
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index:6;
+}
+
+/* GitHub */
 .item:nth-child(24) {
     background-image: url("");
     background-size: cover;
