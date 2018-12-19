@@ -19,7 +19,7 @@
     
 </head>
 <body>
-    <div class="deardanielim">JOIN</div>
+    <div class="join">JOIN</div>
     <div class="container">
     <!-- -->
         <div class="item">
